@@ -1,3 +1,4 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMeQMFYSCqcea4sqWys8Q9+xgmHK2Qdc93YAwHAfF1ix spfeifer@bisasam.wg.lan Sun Aug  6 13:19:34 CEST 2017
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFlLmH3sClLsfXUMEUoz5wRs6K3SdGE/i1aoJ8oIv0KF spfeifer@ditto.wg.lan Thu Sep 21 11:40:41 CEST 2017
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF+Q8kpbZ5rYknDyCAHW8G3yHrXT4/fFtLnvdwr/xApC spfeifer@bastibook.dev Tue Sep 26 15:59:16 CEST 2017
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFlLmH3sClLsfXUMEUoz5wRs6K3SdGE/i1aoJ8oIv0KF spfeifer@ditto.wg.lan Thu Sep 21 11:40:41 CEST 2017    ## Laptop
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF+Q8kpbZ5rYknDyCAHW8G3yHrXT4/fFtLnvdwr/xApC spfeifer@bastibook.dev Tue Sep 26 15:59:16 CEST 2017   ## Arbeit
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMkZt/V4S/EtoAda1OHBQBH59G3YH7JnW1JgFw5eX8DU root@internalhosts Mon Nov  6 15:46:31 CET 2017        ## Docker
+
